@@ -1,0 +1,2 @@
+# Practicas-Reference-based-RNA-Seq-data-analysis
+En este repositorio se recogerá la memoria de mis prácticas externas de Ia mención de Ingeniería Bioinformática realizadas en el Laboratorio de Investigación de Biología Molecular en el CIMES.  Mis estudios son del Grado de Ingeniería de la Salud con mención en Ingeniería Biomédica de la Universidad de Málaga. La realización de estas prácticas es el seguimiento del tutorial de Galaxy 'Reference-based RNA-Seq data analysis' mediante Ubuntu.
